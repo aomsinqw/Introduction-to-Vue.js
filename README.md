@@ -1,1 +1,2 @@
-# Introduction-to-Vue.js
+# Introduction-to-Vue.js  Day 1
+
